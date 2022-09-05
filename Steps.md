@@ -11,3 +11,5 @@ Step 9: Third bug-fix-experimental commit
 Step 10: Merge bug-fix-experimental into bug-fix
 Step 11: Fourth main commit
 Step 12: Edit steps in bug-fix, fifth bug-fix commit
+Step 13: Merge bug-fix into main
+Step 14: Edited steps in main, final main commit
